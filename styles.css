@@ -1,0 +1,15 @@
+*{margin:0; padding:0} /*Resetear estilos*/
+body{width: 960px; margin:0 auto; background: #EFF3FF}
+header{background: gray; padding: 20px;} /*Estilos de cabecer*/
+nav{background: black}
+li{
+    line-height: 40px;
+    list-style: none; /*eliminar las viñetas*/
+    display: inline-block;
+    height:40px;
+    padding:10px;
+    }
+li:hover{background: #9225d5}
+a{padding: 10px;color:white;text-decoration: none}
+section {min-height: 400px}
+footer{background: #4C24A9; color: white; padding: 10px}
